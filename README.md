@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending CLUB Case Study
+
 
 
 ## Table of Contents
@@ -12,33 +13,37 @@
 
 ## General Information
 - Provide general information about your project here.
+  consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+  
+If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+![image](https://github.com/sureshaml86/Case_Study/assets/140676442/de571f0d-87af-4cc1-95a4-e9caff76d228)
+
 - What is the background of your project?
+   To perform Case study on EDA analysis
+  
 - What is the business probem that your project is trying to solve?
+   To identify type of customers who are reliable to offer loan based on the previous loan dataset
+  
 - What is the dataset that is being used?
+   Loan dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The Loan status varies with different factors. After performing EDA analysis, it is evidently clear that higer interest rate having more defaulters. Similary the Income and the Grade also have huge impact![image](https://github.com/sureshaml86/Case_Study/assets/140676442/0bae2772-8d7d-4bd3-b2cf-1dd4d5182f4c)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+ Python 3.10, Pandas, Numpy, Matplotlib, Seaborn
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- References from the Live session provided by My. Sayan Dey on this case study
+
 
 
 ## Contact
