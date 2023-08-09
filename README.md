@@ -12,13 +12,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-  consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+
+consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
   
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 ![image](https://github.com/sureshaml86/Case_Study/assets/140676442/de571f0d-87af-4cc1-95a4-e9caff76d228)
 
-- What is the background of your project?
+
    To perform Case study on EDA analysis
   
 - What is the business probem that your project is trying to solve?
